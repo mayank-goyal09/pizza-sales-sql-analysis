@@ -1,5 +1,4 @@
-# 🍕 Pizza Sales Analysis Using SQL
-
+# 🍕 Pizza Sales Analysis Using SQL | [View Report PDF](pizza%20sales.pdf)
 ## Overview
 
 Every slice sold tells a story. Every order reveals a preference. Every hour of business captures a pattern. When you understand these stories, you transform raw transaction records into strategic intelligence that shapes menu decisions, staffing schedules, and revenue growth.
